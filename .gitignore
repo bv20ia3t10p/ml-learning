@@ -1,11 +1,9 @@
 
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
-*/*/.ipynb_checkpoints/*
-**/.ipynb_checkpoints/
 
 
 # IPython
 profile_default/
 ipython_config.py
 
+Python/Linear Regression/Multiple/.ipynb_checkpoints/multiple_linear_regression-checkpoint.ipynb
